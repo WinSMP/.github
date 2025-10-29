@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
+Hello! This is WinSMP, a Minecraft server made by [walker84837](https://github.com/walker84837). Its focus is on modern, modular & independent, sleek, and first of all, open-source plugins. You can find its plugins in this organization's repos; they're mainly written in:
+- Scala
+- Kotlin
+- Java
 
-**Here are some ideas to get you started:**
+I also have weekly [Folia builds](https://github.com/WinSMP/BuildFoliaServer/releases).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Contributing
+
+You're *always* welcome to contribute, and I'm happy to review and accept new pull requests. Despite my time zone, you should receive a response quickly, as I check GitHub frequently. The contribution guidelines are the same for all repositories.
+
+Additionally, the repositories are marked as [Hacktoberfest](https://hacktoberfest.com), so they will count towards the goal if you make a new PR.
+
+All plugins should support Folia and Paper >=1.21.6. If you find an error related to Folia not being supported, please open a new issue and I will look over it.
