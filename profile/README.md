@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-Hello! This is WinSMP, a Minecraft server made by [walker84837](https://github.com/walker84837). Its focus is on modern, modular & independent, sleek, and first of all, open-source plugins. You can find its plugins in this organization's repos; they're mainly written in:
+Hello! This is the GitHub page for WinSMP, a Minecraft server made by [walker84837](https://github.com/walker84837). Its focus is on modern, modular & independent, sleek, and first of all, open-source plugins. You can find its plugins in this organization's repos; they're mainly written in:
 - Scala
 - Kotlin
 - Java
