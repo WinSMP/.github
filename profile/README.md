@@ -13,4 +13,4 @@ You're *always* welcome to contribute, and I'm happy to review and accept new pu
 
 Additionally, the repositories are marked as [Hacktoberfest](https://hacktoberfest.com), so they will count towards the goal if you make a new PR.
 
-All plugins should support Folia and Paper >=1.21.6. If you find an error related to Folia not being supported, please open a new issue and I will look over it.
+All plugins should support Folia and Paper >=1.21.6. If you find an error related to Folia, or any later version of Paper not being supported, please open a new issue and I will look over it.
